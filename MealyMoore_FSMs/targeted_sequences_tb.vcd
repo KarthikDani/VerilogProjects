@@ -1,0 +1,200 @@
+$date
+	Sat Jan  4 16:42:31 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module targeted_sequences_tb $end
+$var wire 1 ! dout $end
+$var reg 1 " clk $end
+$var reg 1 # din $end
+$var reg 1 $ reset $end
+$scope module uut $end
+$var wire 1 " clk $end
+$var wire 1 # din $end
+$var wire 1 $ reset $end
+$var parameter 3 % S0 $end
+$var parameter 3 & S1 $end
+$var parameter 3 ' S2 $end
+$var parameter 3 ( S3 $end
+$var parameter 3 ) S4 $end
+$var reg 3 * current_state [2:0] $end
+$var reg 1 ! dout $end
+$var reg 3 + next_state [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b100 )
+b11 (
+b10 '
+b1 &
+b0 %
+$end
+#0
+$dumpvars
+b0 +
+b0 *
+1$
+0#
+0"
+0!
+$end
+#5000
+0$
+1"
+#10000
+b1 +
+1#
+0"
+#15000
+b10 +
+b1 *
+1"
+#20000
+b10 *
+b11 +
+0#
+0"
+#25000
+b11 *
+b100 +
+1#
+1"
+#30000
+b0 +
+1!
+b100 *
+0"
+#35000
+b0 *
+0!
+0#
+1"
+#40000
+b1 +
+1#
+0"
+#45000
+b10 +
+b1 *
+1"
+#50000
+b10 *
+0"
+#55000
+b11 +
+0#
+1"
+#60000
+b11 *
+b100 +
+1#
+0"
+#65000
+b0 +
+1!
+b100 *
+1"
+#70000
+b1 +
+0!
+b0 *
+0"
+#75000
+b1 *
+b0 +
+0#
+1"
+#80000
+b0 *
+b1 +
+1#
+0"
+#85000
+b10 +
+b1 *
+1"
+#90000
+b10 *
+0"
+#95000
+1"
+#100000
+0"
+#105000
+1"
+#110000
+0"
+#115000
+1"
+#120000
+0"
+#125000
+1"
+#130000
+0"
+#135000
+1"
+#140000
+0"
+#145000
+1"
+#150000
+0"
+#155000
+1"
+#160000
+0"
+#165000
+1"
+#170000
+0"
+#175000
+1"
+#180000
+0"
+#185000
+1"
+#190000
+0"
+#195000
+1"
+#200000
+0"
+#205000
+1"
+#210000
+0"
+#215000
+1"
+#220000
+0"
+#225000
+1"
+#230000
+0"
+#235000
+1"
+#240000
+0"
+#245000
+1"
+#250000
+0"
+#255000
+1"
+#260000
+0"
+#265000
+1"
+#270000
+0"
+#275000
+1"
+#280000
+0"
