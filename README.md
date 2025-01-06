@@ -7,3 +7,7 @@ EEG FSM P300 module is a Finite State Machine (FSM) designed to detect a P300 pa
 ## [Mealy Moore FSMs](MealyMoore_FSMs/)
 
 A Template used to practicate Mealy and Moore FSMs (Given as Assignment to code 1011, 1101 and 10010 Sequence Detectors in Verilog)
+
+## [DV Lab Record](DV%20Lab%20Record/)
+
+My detailed 5th Sem Lab Record codes all in one place.
